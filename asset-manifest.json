@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/veer-portfolio/static/css/main.a4c1ae03.css",
-    "main.js": "/veer-portfolio/static/js/main.24d29f33.js",
+    "main.js": "/veer-portfolio/static/js/main.9e4c17f7.js",
     "static/media/heroImage.png": "/veer-portfolio/static/media/heroImage.95065feb9001c33e8d28.png",
     "static/media/react.png": "/veer-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/veer-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -11,10 +11,10 @@
     "static/media/javascript.png": "/veer-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/veer-portfolio/index.html",
     "main.a4c1ae03.css.map": "/veer-portfolio/static/css/main.a4c1ae03.css.map",
-    "main.24d29f33.js.map": "/veer-portfolio/static/js/main.24d29f33.js.map"
+    "main.9e4c17f7.js.map": "/veer-portfolio/static/js/main.9e4c17f7.js.map"
   },
   "entrypoints": [
     "static/css/main.a4c1ae03.css",
-    "static/js/main.24d29f33.js"
+    "static/js/main.9e4c17f7.js"
   ]
 }
